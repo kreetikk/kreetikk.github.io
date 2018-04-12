@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div>
+
+      <header class="header-background">
+
+        <div class="clearfix border-bottom-thick header-border">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67.729 67.73" height="24" width="24" style="margin-top: 8px;margin-left:  8px;">
+            <path d="M34.053 0l-10.24 10.24V0H0v45.26l16.865-16.864v.001L45.264 0zm22.469 0l-32.71 32.71v-.004l-1.157 1.158.001.002.024.023 1.133 1.132L56.52 67.73h11.208L33.865 33.866 67.73.002V0zm-39.47 39.468L0 56.519v11.209l17.026-17.026L0 67.73h23.812V57.49l10.24 10.24h11.21l-21.45-21.45v-.05l-1.156-1.156-.025.025.024-.026z" fill="#ffffff"></path>
+          </svg>
+          <ul class="list-reset right py-1 header-text font-smoothing">
+            {% for my_page in site.pages %}
+              {% if my_page.title %}
+              <li class="inline-block">
+                <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+              </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="container mx-auto px-2 mb-2 clearfix header-text">
+          <h1 class="h0 inline-block col-9 sm-width-full py-4 mt-3 header-title">{{ site.title }}</h1>
+
+          <div class="clearfix mb-4 py-1">
+            <div class="col-4 sm-width-full left border-top-thin">
+              <div class="table">
+                <div class="inline-block mt-3 mr-1">
+                  {% include dot-accent.html %}
+                </div>
+                <div class="inline-block mt-3 mr-1">
+                  {% include dot-accent.html %}
+                </div>
+                <div class="inline-block mt-3">
+                  {% include github.html %}
+                </div>
+              </div>
+              <!-- Set site description in config.yml -->
+              <p class="h4 lh-condensed font-smoothing mt-2 py-1">{{ site.description }}</p>
+            </div>
+          </div>
+
+        </div>
+      </header>
+
+      <div class="container mx-auto px-2 py-4">
+        {% for post in site.posts %}
+          {% include post_block.html %}
+        {% endfor %}
+      </div>
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
