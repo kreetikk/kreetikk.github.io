@@ -22,10 +22,9 @@ $color-primary-link: $red !default;
   -moz-osx-font-smoothing: grayscale;
 }
 
+article a {
+  color: $red;
+}
+
 // Import sass partials (used in all themes)
-@import
-        "variables",
-        "base",
-        "components",
-        "utilities"
-;
+@import "variables", "base", "components", "utilities";
