@@ -19,6 +19,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://kreeti.info.np" # the base hostname & protocol for your site
 github_repo: kreetikk.github.io # the GitHub repo name for your project
 github_username: kreetikk
+instagram_username: kreetikk
+linkedin_username: kreeti-karmacharya
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
