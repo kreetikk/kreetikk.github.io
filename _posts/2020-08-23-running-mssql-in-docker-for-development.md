@@ -9,7 +9,8 @@ published: true
 ![MSSQL in docker](/assets/images/docker-post4-cover.png)
 
 Assuming docker and docker-compose are already installed in the machine or else follow the instruction [here](https://docs.docker.com/compose/install/), including the prerequisites.
-Create a directory and inside it create a docker-compose.yml file with the following content.
+
+To run mssql, preferably create a directory and inside it create a docker-compose.yml file with the following content.
 
 ```yaml
 version: "3"
