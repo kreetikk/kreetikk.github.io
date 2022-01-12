@@ -4,4 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am currently working as a Software Engineer in Merchantrade since June 2016. I am mainly involved in Remittance based projects, gather requirements and design and develop modules accordingly. Previously, I worked for Software Paradigm International (SPI) as a Software Engineer from Jan 2015, where I was involved in design and development of retail software project. Pathway Technologies and Services was the first company where I started my career as a Junior-developer in Jan 2014.
+I am a software engineer from Kathmandu, Nepal. I have 8 years of experience in building web applications using modern software engineering practices, tools, techniques, design patterns, and web standards. In my spare time, I enjoy reading and hiking.
+
+**Education:**
+- MSc IT in Data Analytics (2019-2021)
+- B.E. in Computer Engineering (2009-2013)
+
+**Technologies:**
+- C#, .NET Core, ASP.NET, Node.js, JavaScript, TypeScript, REST, MS SQL, Azure, AWS
+
+For my complete professional details, please visit my [Linkedin profile](https://www.linkedin.com/in/kreeti-karmacharya/).

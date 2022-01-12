@@ -8,7 +8,7 @@ published: true
 ![Jamacho View](/assets/images/jamacho-cover.jpeg)
 *View from Jamacho View Tower*
 
-It's been a long time since I've been wanting to write on so many things. And every time I have some excuses on not to. Honestly it's cause I'm bad at it and also that I'm afraid to be judged. But I just love reading and I've been moved by so many beautiful writings that I've come across. I believe these people are truly blessed with powers who could take out their feelings into beautiful words which could totally touch others hearts as well as minds. Anyway, coming to my writing, I have no  plan to have such powers (I surely wish to have like being invisible) but I want to write to keep memories for now. So I'm going to start my journey of writing from very primary level.
+It's been a long time since I've been wanting to write on so many things. And every time I have some excuses on not to. Honestly it's cause I'm bad at it and also that I'm afraid to be judged. But I just love reading and I've been moved by so many beautiful writings that I've come across. I believe these people are truly blessed with powers who could take out their feelings into beautiful words which could totally touch others hearts as well as minds. Anyway, coming to my writing, I have no  plan to have such powers but I do want to write to keep memories for now. So I'm going to start my journey of writing from very primary level.
 
 <!--more-->
 
